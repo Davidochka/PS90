@@ -1,0 +1,47 @@
+header {
+	height: 496px;
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	background-image: url(../img/bgheader.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.ttu {
+	text-transform: uppercase;
+}
+
+.headerButton {
+	float: right;
+	margin: 21px 16.7% 0px 0px;
+}
+
+.headerLogoText {
+	font-size: 50.05px;
+	padding: 0px 0px 0px 9.2%;
+}
+
+.textStyleHeaderButton {
+	font-size: 16.05px;
+	color: #ffffff; 
+	padding: 10px
+}
+
+.textStyleHeaderButton:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+.divbodyOneInscriptionAndAuthorship{
+	padding: 126px 15.9% 136px 17.3%;
+}
+
+.divbodyOneInscriptionAndAuthorship div{
+	padding: 34px 0 60px 0;
+}
+
+/*.divbodyTwoPsalm{
+	background-image: url(.. /img/bgpsalm.png);
+}*/
+
+.
